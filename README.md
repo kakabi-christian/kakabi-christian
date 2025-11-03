@@ -33,9 +33,13 @@
 ## 💬 About Me
 
 🎯 **Current Project:** Working on *KmerLinguo* 
+
 🌱 **Learning:** Nest.js  
+
 💡 **Ask Me About:** JavaScript, HTML, CSS  
+
 📫 **Contact:** [kakabichristian@gmail.com](mailto:kakabichristian@gmail.com)  
+
 ⚡ **Fun Fact:** I'm a funny guy who codes with a smile 😄  
 
 ---
