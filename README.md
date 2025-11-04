@@ -40,7 +40,7 @@
 
 📫 **Contact:** [kakabichristian@gmail.com](mailto:kakabichristian@gmail.com)  
 
-⚡ **Fun Fact:** I'm a funny guy who codes with a smile 😄  
+⚡ **Fun Fact:** I'm a funny guy 😄  
 
 ---
 
