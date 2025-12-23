@@ -57,7 +57,7 @@
 ## 🧠 Languages & Tools & ORM & Databases & Frameworks
 
 <p align="center">
- <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,nest,php,cs,bootstrap,express,flutter,mysql,postgres,git,postman,figma,firebase,prisma,sequelize,django,angular,laravel" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,nest,php,cs,bootstrap,express,flutter,mysql,postgres,mongodb,git,postman,figma,firebase,prisma,sequelize,django,angular,laravel" />
 </p>
 
 ---
